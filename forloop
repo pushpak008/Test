@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "forloop"
+
+for i in {100..20}
+
+do
+	echo "loop no $i"
+
+done
+
